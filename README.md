@@ -25,7 +25,7 @@ pip install twitchio pyttsx3 yt-dlp websockets
 
 Create your config.ini by running the bot once:
 
-python twitch_bot.py
+python bot.py
 
 # It will crash, but that's a feature, not a bug!
 
