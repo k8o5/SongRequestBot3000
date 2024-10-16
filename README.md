@@ -30,7 +30,7 @@ Create your config.ini by running the bot once:
 ```bash
 python bot.py
 ```
-# It will crash, but that's a feature, not a bug!
+# It will crash once, but that's a feature, not a bug!
 
 🎮 Commands That Actually Work (Most of the Time)
 !songreq [YouTube URL] Adds a banger to the queueEveryone !skip Yeet the current song into oblivion !warteschlange Shows the queue (yes, it's German, deal with it) !clear Nuclear option for the queue 
