@@ -16,26 +16,23 @@ Because every Twitch stream needs more chaos, uwu's, and synchronized song queue
 
 Clone this bad boy:
 
-bashCopygit clone https://github.com/yourname/uwu-song-request-bot.git
-cd definitely-not-skynet
+git clone https://github.com/k8o5/SongRequestBot3000.git
+cd SongRequestBot3000
 
 Install the dependencies (promise they're not viruses):
 
-bashCopypip install twitchio pyttsx3 yt-dlp websockets
-# If this fails, try turning it off and on again
+pip install twitchio pyttsx3 yt-dlp websockets
 
 Create your config.ini by running the bot once:
 
-bashCopypython twitch_bot.py
+python twitch_bot.py
+
 # It will crash, but that's a feature, not a bug!
 
-Edit config.ini with your super secret Twitch credentials:
-
-iniCopy[Twitch]
-oauth_token = oauth:definitely_not_your_banking_password
-channel = xXx_your_channel_name_xXx
 🎮 Commands That Actually Work (Most of the Time)
-CommandWhat it DoesWho Can Use It!songreq [YouTube URL]Adds a banger to the queueEveryone!skipYeet the current song into oblivionMods!warteschlangeShows the queue (yes, it's German, deal with it)Everyone!clearNuclear option for the queueMods!serverShamelessly promotes your Minecraft serverEveryone!femboyCalculates your femboy percentage with SCIENCEEveryone
+!songreq [YouTube URL] Adds a banger to the queueEveryone !skip Yeet the current song into oblivion !warteschlange Shows the queue (yes, it's German, deal with it) !clear Nuclear option for the queue 
+!server Shamelessly promotes my Minecraft server !femboy Calculates your femboy percentage with SCIENCE
+
 🤔 FAQ (Frequently Awkward Questions)
 Q: Why does it sometimes speak in UwU?
 A: That's not a bug, it's a feature. Embrace the uwu.
@@ -62,21 +59,10 @@ The femboy calculator is surprisingly accurate
 
 📜 License
 Licensed under the "Do Whatever You Want But Don't Blame Me" License.
-🙏 Credits
 
-Coffee ☕
-Stack Overflow 🚀
-That one person who answered a similar question in 2011 🙌
-The voices in my head 👻
 You, for reading this far 💖
-
-🌟 Star History
-Show Image
-Results may be heavily edited for emotional support
-
 
 "It's not a bug, it's an unplanned feature."
 — Some Developer, Probably
 
 Made with 💖 and questionable coding decisions in [Your Mom's Basement]
-P.S. If you found this useful, you can buy me a coffee. I mean, you won't, but you could.
