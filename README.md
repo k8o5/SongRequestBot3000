@@ -16,17 +16,20 @@ Because every Twitch stream needs more chaos, uwu's, and synchronized song queue
 
 Clone this bad boy:
 
+```bash
 git clone https://github.com/k8o5/SongRequestBot3000.git
 cd SongRequestBot3000
-
+```
 Install the dependencies (promise they're not viruses):
 
+```bash
 pip install twitchio pyttsx3 yt-dlp websockets
-
+```
 Create your config.ini by running the bot once:
 
+```bash
 python bot.py
-
+```
 # It will crash, but that's a feature, not a bug!
 
 🎮 Commands That Actually Work (Most of the Time)
