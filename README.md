@@ -1,4 +1,4 @@
-# SongRequestBot3000🤖 UwU Song Request Bot 3000 Plus Ultra Edition
+🤖 UwU Song Request Bot 3000 Plus Ultra Edition
 
 Because every Twitch stream needs more chaos, uwu's, and synchronized song queues!
 
