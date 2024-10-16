@@ -16,7 +16,7 @@ Because every Twitch stream needs more chaos, uwu's, and synchronized song queue
 
 Clone this bad boy:
 
-git clone https://github.com/k8o5/SongRequestBot3000.git
+bash git clone https://github.com/k8o5/SongRequestBot3000.git
 cd SongRequestBot3000
 
 Install the dependencies (promise they're not viruses):
